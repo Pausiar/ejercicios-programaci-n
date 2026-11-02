@@ -1,0 +1,16 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Experimento contra NVIDIA NIM: contiene la API key embebida, no subir
+testNVIDIANIM.py
+
+# pytest
+.pytest_cache/
